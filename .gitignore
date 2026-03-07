@@ -1,0 +1,37 @@
+# Large simulation files
+data/processed/simulations/*.parquet
+data/processed/simulations/*.feather
+
+# Keep CSV files as they are smaller
+!data/processed/simulations/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore everything in the paper folder
+paper/
+
+#Ignore any R files
+.Rproj.user/*
