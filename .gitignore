@@ -35,3 +35,10 @@ paper/
 
 #Ignore any R files
 .Rproj.user/*
+
+#Other files
+*.woff
+*.js
+*.html
+*.css
+*.png
