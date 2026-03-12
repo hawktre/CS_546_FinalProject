@@ -23,7 +23,6 @@ streamlit
 kaleido
 scikit-learn
 ipykernel
-pycairo
+
 igraph
 contextily
-cairocffi
