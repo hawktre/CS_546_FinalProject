@@ -41,4 +41,4 @@ paper/
 *.js
 *.html
 *.css
-*.png
+notebooks/4-network-analysis-finalproject_files/*
